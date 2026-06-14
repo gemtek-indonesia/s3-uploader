@@ -1,0 +1,6 @@
+[project]
+name = "gtid-s3-uploader"
+slug = "gtid-s3-uploader"
+
+[amem]
+server = "https://amem.flusci.org"
